@@ -221,7 +221,7 @@ public class Main extends Application {
 
     private void animateSecondsCounter(Line secondCounter) {
 
-        String musicFile = "clock-tick.mp3";
+        String musicFile = "assets/sound/clock-tick.mp3";
 
         javafx.scene.media.Media sound = new Media(new File(musicFile).toURI().toString());
         MediaPlayer mediaPlayer = new MediaPlayer(sound);

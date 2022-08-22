@@ -6,5 +6,5 @@ Image of the Application :
 <br />
 <br />
 <br />
-<img src="/assets/clock.png" width="50%" height="auto" />
+<img src="/assets/image/clock.png" width="50%" height="auto" />
 
